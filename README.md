@@ -1,2 +1,3 @@
 # list-events
-### npm install
+## install dependencies
+npm install
